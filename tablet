@@ -1,0 +1,33 @@
+{
+    "lista-tablets": [
+        {
+        "modelo" : "Samsung Galaxy Tab S9",
+        "color" : "Graphite",
+        "almacenamiento" : "128GB",
+        "ram" : "8GB",
+        "numeros-comprador" : ["643033698","685427220"],
+        "valoraciones" : ["Mi nokia era 100 veces mejor","Malisíma, Apple es mucho mejor"],
+        "fecha" : "2024-01-25"
+        },
+
+        {
+        "modelo" : "iPad Pro 12,9",
+        "color" : "Plata",
+        "almacenamiento" : "256GB",
+        "ram" : "8GB",
+        "numeros-comprador" : ["661798379","643033645"],
+        "valoraciones" : ["Precio algo elevado pero gran funcionamiento","Rapidísima pero se le agota la batería muy rápido"],
+        "fecha" : "2024-02-15"
+        },
+
+        {
+        "modelo" : "iPad Air",
+        "color" : "Azul",
+        "almacenamiento" : "64GB",
+        "ram" : "8GB",
+        "numeros-comprador" : ["58746465","456554352"],
+        "valoraciones" : ["Poquísimo almacenamiento, me duró un año","Es muy liviana, apenas pesa, y tiene un color muy bonito <3"],
+        "fecha" : "2024-04-01"
+            }   
+    ]
+}
